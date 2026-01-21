@@ -1,3 +1,3 @@
 function dirm -d "Delete a directory"
-    rm -r $args
+    rm -r $argv
 end
